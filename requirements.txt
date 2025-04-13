@@ -1,0 +1,14 @@
+# Core OCR Library
+easyocr
+
+# OpenCV for video stream handling and image processing
+opencv-python
+
+# NumPy (remove specific version to let pip choose the compatible one)
+numpy
+
+# For installing specific versions of torch (needed for EasyOCR)
+torch # CPU version
+
+# Additional dependencies for image processing and visualization
+matplotlib
